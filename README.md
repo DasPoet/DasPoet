@@ -10,5 +10,5 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=daspoet&layout=compact&hide=css&theme=tokyonight"
     height="170"
-  style = "margin-left:10px;"/>
+  />
 </div>
