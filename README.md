@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <img
     src="https://github-readme-stats.vercel.app/api?username=daspoet&show_icons=true&theme=radical"
     height="170"
